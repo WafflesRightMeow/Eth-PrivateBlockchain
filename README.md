@@ -1,30 +1,6 @@
-# Ethereum Docker
+# Ethereum - Private Blockchain
 
-Get started creating Ethereum development and test single and multi-node clusters
-rapidly using Docker.
-
-We provide full Ethereum test nodes (using the [Ethereum Go client](https://github.com/ethereum/go-ethereum) with all APIs enabled by default as well as a monitoring dashboard (for the cluster version) provided
-via [Netstats](https://github.com/cubedro/eth-netstats).
-
-#### Alternative projects
-
-TestRPC - [https://github.com/ethereumjs/testrpc](https://github.com/ethereumjs/testrpc)
-
-# Getting started
-
-## 1. Installing
-
-### 1.1. Standalone Ethereum node
-
-#### Prerequisites
-
-Docker Toolbox installed. 
-> To download and install Docker Toolbox for your environment please
-follow [the Docker Toolbox instructions](https://www.docker.com/products/docker-toolbox). 
-
-After Docker Toolbox has been installed, create a ```default``` machine to run Docker against.
-
-#### Lets go
+## Getting Started
 
 To run a single test Ethereum node run the following:
 
